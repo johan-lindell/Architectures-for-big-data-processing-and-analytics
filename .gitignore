@@ -1,0 +1,14 @@
+*.jar
+*.class
+*.log
+
+# Directories used by Hadoop MapReduce
+/bin/
+/output/
+
+# Other
+.DS_Store
+.idea/
+*.iml
+/target/
+*.pid
